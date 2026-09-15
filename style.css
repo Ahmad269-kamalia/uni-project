@@ -9,8 +9,8 @@ body{
             min-height: 100vh;
         }
         #large-box{
-            height: auto;
-            min-height: 650px;
+            height: 650px;
+            max-width: 430px;
             width: 100%;
             max-width: 430px;
             background-color: rgb(255, 255, 255);
