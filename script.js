@@ -1,7 +1,7 @@
 let btn1=document.querySelector("#btn1");
 let btn2=document.querySelector("#btn2");
 let input1=document.querySelector("#input21");
-let input2=document.querySelector("input213")
+let input2=document.querySelector("#input213")
 
 
 btn1.addEventListener("click",()=>{
